@@ -1,0 +1,91 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 279,
+    "analysis_type": "blank_unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "degas",
+    "commit": "f27caf481570e508b9494166cdee68dbeffdda9f",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "H1": {
+            "deflection": 0.0,
+            "gain": 0.975
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 0.989191664911756
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Airs_peakhop",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_ArRef_2split.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "bu-AC-A",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 11,
+    "isotopes": {
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar40H2": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "PM41": {
+            "detector": "H2",
+            "name": "PM41",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Argus",
+    "material": "Blank",
+    "measurement": "argus_ic_peak_2hop.py",
+    "post_equilibration": "argus_pump_v1.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "ANGL",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Argus_blank200",
+    "rlocation": "",
+    "sample": "blank_unknown",
+    "source": {
+        "emission": 731.606,
+        "trap": 199.042
+    },
+    "spec_sha": "f6b0022813380a021c3cb1160521e36739a1063a",
+    "timestamp": "2020-04-19T16:26:15.810527",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "e914b4a7-8dc1-4e81-89cd-13d2bf0ac2f5",
+    "whiff_result": null
+}
