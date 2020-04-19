@@ -109,14 +109,14 @@
     "rlocation": "",
     "sample": "blank_unknown",
     "source": {
-        "emission": 731.119,
+        "emission": 731.363,
         "trap": 198.818
     },
     "spec_sha": "d70d1ab6c4a2d6855d7cfd29922c6f34680ac96b",
-    "timestamp": "2020-04-19T13:34:15.182010",
+    "timestamp": "2020-04-19T13:58:41.156884",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "3296ad56-497e-4639-b2cc-9aff314b8215",
+    "uuid": "363bd004-46ad-4079-8ac3-f32de33edfb0",
     "whiff_result": null
 }
